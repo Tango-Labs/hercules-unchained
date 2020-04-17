@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/New/scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/New/scripts/CamController.cs" Line="35" Column="41" />
+      <File FileName="Assets/New/scripts/PlayerController.cs" Line="19" Column="6" />
+      <File FileName="Assets/New/scripts/FollowNoRB.cs" />
+      <File FileName="Assets/Assets/FixedFollower.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Thaleah_PixelFont" expanded="True" />
+              </Node>
+              <Node name="New" expanded="True">
+                <Node name="decorations" expanded="True" />
+                <Node name="scripts" expanded="True">
+                  <Node name="PlayerController.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Pixel Art Background" expanded="True" />
+              <Node name="TextMesh Pro" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8621b443-0a46-438b-b853-b6c797d4a280" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
